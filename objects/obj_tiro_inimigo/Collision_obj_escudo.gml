@@ -1,0 +1,1 @@
+sendo_destruido(obj_tiro_explosao);

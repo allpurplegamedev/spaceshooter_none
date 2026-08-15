@@ -1,0 +1,2 @@
+//destruindo instancias
+morrendo();
